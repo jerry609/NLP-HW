@@ -12,7 +12,9 @@ ucas nlp homework record from the School of Cybersecurity.
 ## hw2
 
 分词
-- 中英文预料分词
+- NPLM
+- 
+1.中英文预料分词
 
 ![img.png](img.png)
 ![img_1.png](img_1.png)
